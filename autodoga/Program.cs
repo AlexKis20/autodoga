@@ -19,7 +19,6 @@ namespace autodoga
 
 
 
-
             Console.ReadKey();
         }
     }
